@@ -1,0 +1,196 @@
+{
+  "skills": [
+    {
+      "skillTitle": "Team Leadership",
+      "skillId": 0,
+      "skillImage": "https://www.nicepng.com/png/full/140-1401205_huddle-icon-png-leader-icon-png-gospel-icon.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Flutter",
+      "skillId": 1,
+      "skillImage": "https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Mobile Development",
+      "skillId": 2,
+      "skillImage": "https://www.seekpng.com/png/full/278-2783353_mobile-mobile-phone-icon-red-png.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Android Development",
+      "skillId": 3,
+      "skillImage": "https://www.freepnglogos.com/uploads/android-logo-png/android-logo-powerful-mobile-apps-for-those-with-disabilities-3.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "iOS Development",
+      "skillId": 4,
+      "skillImage": "https://pic.onlinewebfonts.com/svg/img_204828.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Web Development",
+      "skillId": 5,
+      "skillImage": "http://cdn.onlinewebfonts.com/svg/img_527746.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Kotlin",
+      "skillId": 6,
+      "skillImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Swift",
+      "skillId": 7,
+      "skillImage": "https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-1024.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Java",
+      "skillId": 8,
+      "skillImage": "https://cdn-icons-png.flaticon.com/512/152/152760.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Dart",
+      "skillId": 9,
+      "skillImage": "https://iconape.com/wp-content/files/pa/370777/png/370777.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Html",
+      "skillId": 10,
+      "skillImage": "https://cdn-icons-png.flaticon.com/512/732/732212.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "CSS",
+      "skillId": 11,
+      "skillImage": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "PHP",
+      "skillId": 12,
+      "skillImage": "https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "MySQL",
+      "skillId": 13,
+      "skillImage": "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Firebase",
+      "skillId": 14,
+      "skillImage": "https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Geo-Location",
+      "skillId": 15,
+      "skillImage": "https://www.seekpng.com/png/full/204-2048201_vector-location-icon-png.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Software Development",
+      "skillId": 16,
+      "skillImage": "https://www.freeiconspng.com/uploads/software-icon-30.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Project Management",
+      "skillId": 17,
+      "skillImage": "https://www.nicepng.com/png/detail/333-3332319_icon-31708-managment-icons-for-management.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Continuous Integration",
+      "skillId": 18,
+      "skillImage": "https://cdn0.iconfinder.com/data/icons/agile-coral-vol-1/256/Continuous_Integration-1024.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Continuous Delivery",
+      "skillId": 19,
+      "skillImage": "https://www.datocms-assets.com/15783/1598878243-cd.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Agile Methodologies",
+      "skillId": 20,
+      "skillImage": "https://media.istockphoto.com/vectors/agile-icon-vector-id1177220131?k=20&m=1177220131&s=612x612&w=0&h=P1HftlKCZsHkkwmDI3gFFwGwKc7mZOXKw9vJBPYxRFg=",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Test Automation",
+      "skillId": 21,
+      "skillImage": "https://cdn0.iconfinder.com/data/icons/automation-testing-1/128/Set17-26-1024.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Scrum",
+      "skillId": 22,
+      "skillImage": "https://cdn-icons-png.flaticon.com/512/2620/2620863.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Kanban",
+      "skillId": 23,
+      "skillImage": "https://cdn-icons-png.flaticon.com/512/5360/5360804.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Objective C",
+      "skillId": 24,
+      "skillImage": "https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Git",
+      "skillId": 25,
+      "skillImage": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Json",
+      "skillId": 26,
+      "skillImage": "https://cdn-icons-png.flaticon.com/512/136/136525.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "REST APIs",
+      "skillId": 27,
+      "skillImage": "https://apps.odoocdn.com/web/image/loempia.module/37657/icon_image",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Javascript",
+      "skillId": 28,
+      "skillImage": "https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "NoSQL",
+      "skillId": 29,
+      "skillImage": "https://icon-library.com/images/no-sql-icon/no-sql-icon-7.jpg",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "CMS",
+      "skillId": 30,
+      "skillImage": "https://cdn-icons-png.flaticon.com/512/1787/1787257.png",
+      "skillExpertise": 0
+    },
+    {
+      "skillTitle": "Cloud Storage",
+      "skillId": 31,
+      "skillImage": "https://assets.dryicons.com/uploads/icon/svg/9786/ed03e991-bb05-4b08-ab2e-2aa5d148da68.svg",
+      "skillExpertise": 0
+    }
+  ]
+}

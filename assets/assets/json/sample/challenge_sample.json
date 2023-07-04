@@ -1,0 +1,18 @@
+{
+  "challenges": [
+    {
+      "title": "ATM CLI",
+      "subtitle": "You are asked to develop a Command Line Interface (CLI) to simulate an interaction of an ATM with a retail bank.",
+      "detail": "* Available user : Alice | Bob | Trojan\n\n* `login [name]` - Logs in as this customer and creates the customer if not exist\n\n* `deposit [amount]` - Deposits this amount to the logged in customer\n\n* `withdraw [amount]` - Withdraws this amount from the logged in customer\n\n* `transfer [target] [amount]` - Transfers this amount from the logged in customer to the target customer\n\n* `logout` - Logs out of the current customer",
+      "acceptanceCriteria": "Your console output should contain at least the following output depending on the scenario and commands. But feel free \n\nto add extra output as you see fit.\n\n\n\n```bash\n\n$ login Alice\n\nHello, Alice!\n\nYour balance is $0\n\n\n\n$ deposit 100\n\nYour balance is $100\n\n\n\n$ logout\n\nGoodbye, Alice!\n\n\n\n$ login Bob\n\nHello, Bob!\n\nYour balance is $0\n\n\n\n$ deposit 80\n\nYour balance is $80\n\n\n\n$ transfer Alice 50\n\nTransferred $50 to Alice\n\nyour balance is $30\n\n\n\n$ transfer Alice 100\n\nTransferred $30 to Alice\n\nYour balance is $0\n\nOwed $70 to Alice\n\n\n\n$ deposit 30\n\nTransferred $30 to Alice\n\nYour balance is $0\n\nOwed $40 to Alice\n\n\n\n$ logout\n\nGoodbye, Bob!\n\n\n\n$ login Alice\n\nHello, Alice!\n\nYour balance is $210\n\nOwed $40 from Bob\n\n\n\n$ transfer Bob 30\n\nYour balance is $210\n\nOwed $10 from Bob\n\n\n\n$ logout\n\nGoodbye, Alice!\n\n\n\n$ login Bob\n\nHello, Bob!\n\nYour balance is $0\n\nOwed $10 to Alice\n\n\n\n$ deposit 100\n\nTransferred $10 to Alice\n\nYour balance is $90\n\n\n\n$ logout\n\nGoodbye, Bob!\n\n```",
+      "bonus": "1. Adding help command\n2. Adding keyboard arrow up and down function to use previous command\n3. Adding admin user\n4. Add basic validation for every command\n",
+      "difficultyLevel": 7,
+      "timeUsedHourly":4,
+      "finishedDate": "2022-07-12, 15.43",
+      "challenger": "Dkatalis",
+      "showChallenger": true,
+      "challengeDate": "2022-07-12, 15.43",
+      "routeName": "atmCli"
+    }
+  ]
+}

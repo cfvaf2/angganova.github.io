@@ -1,0 +1,1097 @@
+{
+  "owner": "angganova.recruitment@gmail.com",
+  "createdAt": "",
+  "updatedAt": "",
+  "profile": {
+    "name": "Angga Nova Perkasa",
+    "title": "Tech Lead at R/GA",
+    "location": "Indonesia",
+    "about": "Angga have more than 7 years experience in cross platform mobile software development for Android and iOS. He has been developed and managed more than 14 Android apps and 7 iOS apps with famous brand such as Starbucks (ID), Domino's Pizza (ID), Golden Lamian (ID), Zig (SG), and many more in 2014 to 2021 for his primary work.\nHe can work well both in team or individually, have a great communication skill, fast learner, and creative on every aspect. And he keep grinding, improving, and following the leading technology trend.",
+    "profileImage":"https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1661990400&v=beta&t=Vb2culGiW2qQfpA7KKmKku9UyPNj0z1A9DaNHd_KZvI",
+    "backgroundImage":"https://img.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_107791-7397.jpg"
+  },
+  "experience": [
+    {
+      "companyName": "R/GA",
+      "companyImage": "https://resized.space.rga.com/image/upload/c_fill,fl_progressive,q_auto:low,fl_lossy,f_auto,h_960,w_960/v1566308041/production/file-5dc47f66641ff3494e763c40",
+      "companyLocationId": 0,
+      "companyLocation": "Singapore",
+      "companyIndustryId": 0,
+      "companyIndustry": "Computer Software",
+      "employmentTitle": "Senior Mobile Developer",
+      "employmentType": "Full-time",
+      "employmentDescription": "Responsibility :\n1. Develop app to match UI / UX design provided remotely\n2. Follow timeline and sprint for project\n3. Manage code to match standard and best practice\n4. Develop wireframe and prototype\n5. Follow project with scrum\n6. Develop, analyze, optimize, and fix code in development\n7. Lead development on taxi section\n8. Optimize resources to increase productivity",
+      "profileHeadline": "Senior Software Engineer, Mobile Platform at R/GA",
+      "startMonth": 9,
+      "startYear": 2020,
+      "endMonth": 0,
+      "endYear": 0,
+      "currentlyWorking": true,
+      "skills": [
+        {
+          "skillTitle": "Team Leadership",
+          "skillId": 0,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/1256/1256632.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Flutter",
+          "skillId": 1,
+          "skillImage": "https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png",
+          "skillExpertise": 9
+        },
+        {
+          "skillTitle": "Mobile Development",
+          "skillId": 2,
+          "skillImage": "https://www.seekpng.com/png/full/278-2783353_mobile-mobile-phone-icon-red-png.png",
+          "skillExpertise": 10
+        },
+        {
+          "skillTitle": "Android Development",
+          "skillId": 3,
+          "skillImage": "https://www.freepnglogos.com/uploads/android-logo-png/android-logo-powerful-mobile-apps-for-those-with-disabilities-3.png",
+          "skillExpertise": 10
+        },
+        {
+          "skillTitle": "iOS Development",
+          "skillId": 4,
+          "skillImage": "https://pic.onlinewebfonts.com/svg/img_204828.png",
+          "skillExpertise": 9
+        },
+        {
+          "skillTitle": "Web Development",
+          "skillId": 5,
+          "skillImage": "http://cdn.onlinewebfonts.com/svg/img_527746.png",
+          "skillExpertise": 10
+        },
+        {
+          "skillTitle": "Dart",
+          "skillId": 9,
+          "skillImage": "https://iconape.com/wp-content/files/pa/370777/png/370777.png",
+          "skillExpertise": 9
+        },
+        {
+          "skillTitle": "Scrum",
+          "skillId": 22,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/2620/2620863.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Continuous Integration",
+          "skillId": 18,
+          "skillImage": "https://cdn0.iconfinder.com/data/icons/agile-coral-vol-1/256/Continuous_Integration-1024.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Continuous Delivery",
+          "skillId": 19,
+          "skillImage": "https://www.datocms-assets.com/15783/1598878243-cd.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Git",
+          "skillId": 25,
+          "skillImage": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+          "skillExpertise": 10
+        },
+        {
+          "skillTitle": "Firebase",
+          "skillId": 14,
+          "skillImage": "https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png",
+          "skillExpertise": 10
+        },
+        {
+          "skillTitle": "Geo-Location",
+          "skillId": 15,
+          "skillImage": "https://www.seekpng.com/png/full/204-2048201_vector-location-icon-png.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Software Development",
+          "skillId": 16,
+          "skillImage": "https://www.freeiconspng.com/uploads/software-icon-30.png",
+          "skillExpertise": 10
+        },
+        {
+          "skillTitle": "Json",
+          "skillId": 26,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/136/136525.png",
+          "skillExpertise": 10
+        },
+        {
+          "skillTitle": "REST APIs",
+          "skillId": 27,
+          "skillImage": "https://apps.odoocdn.com/web/image/loempia.module/37657/icon_image",
+          "skillExpertise": 10
+        },
+        {
+          "skillTitle": "Javascript",
+          "skillId": 28,
+          "skillImage": "https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "NoSQL",
+          "skillId": 29,
+          "skillImage": "https://icon-library.com/images/no-sql-icon/no-sql-icon-7.jpg",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Cloud Storage",
+          "skillId": 31,
+          "skillImage": "https://assets.dryicons.com/uploads/icon/svg/9786/ed03e991-bb05-4b08-ab2e-2aa5d148da68.svg",
+          "skillExpertise": 7
+        }
+      ],
+      "projects": [
+        {
+          "projectName": "CDG - ZIG",
+          "projectImageUrl": "https://play-lh.googleusercontent.com/_BpzlMCC8lXun4zKW6JCMXGySAqrINtfvaLqKsGqAZN6t6dciHda0cX7ILznISMUmmXQ=w480-h960-rw",
+          "projectDescription": "CDG Zig apps for Android and iOS built with flutter",
+          "currentlyWorking": false,
+          "startMonth": 9,
+          "startYear": 2020,
+          "endMonth": 6,
+          "endYear": 2021,
+          "teamSize": 7,
+          "role": "Senior Software Engineer - Mobile Platforms",
+          "projectUrl": [
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://logos-world.net/wp-content/uploads/2021/02/App-Store-Logo.png",
+              "contentTitle": "CDG ZIG iOS",
+              "contentDescription": "https://apps.apple.com/id/app/cdg-zig/id954951647",
+              "contentAction": "https://apps.apple.com/id/app/cdg-zig/id954951647"
+            },
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Prism.max-500x500.png",
+              "contentTitle": "CDG ZIG Android",
+              "contentDescription": "https://play.google.com/store/apps/details?id=com.codigo.comfort",
+              "contentAction": "https://play.google.com/store/apps/details?id=com.codigo.comfort"
+            }
+          ],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Australian Ethical",
+          "projectImageUrl": "https://play-lh.googleusercontent.com/W33b_wQYUE27sr4OxDgjwSZJOZNe4vcnw1wK34jhb2jCQ38yw6Ygt_BO-BHgMlAgZNG0=w480-h960-rw",
+          "projectDescription": "Australian Ethical for Android and iOS",
+          "currentlyWorking": false,
+          "startMonth": 9,
+          "startYear": 2021,
+          "endMonth": 6,
+          "endYear": 2022,
+          "teamSize": 5,
+          "role": "Tech Lead",
+          "projectUrl": [
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://logos-world.net/wp-content/uploads/2021/02/App-Store-Logo.png",
+              "contentTitle": "Australian Ethical iOS",
+              "contentDescription": "https://apps.apple.com/id/app/australian-ethical/id1618725034",
+              "contentAction": "https://apps.apple.com/id/app/australian-ethical/id1618725034"
+            },
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Prism.max-500x500.png",
+              "contentTitle": "Australian Ethical Android",
+              "contentDescription": "https://play.google.com/store/apps/details?id=au.com.australianethical.app",
+              "contentAction": "https://play.google.com/store/apps/details?id=au.com.australianethical.app"
+            }
+          ],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        }
+      ],
+      "media": []
+    },
+    {
+      "companyName": "PT Sumber Natural Indonesia",
+      "companyImage": "https://cakapinterview.com/wp-content/uploads/2021/03/CK-Seven-Retail-Group.jpg",
+      "companyLocationId": 0,
+      "companyLocation": "Greater Jakarta Area, Indonesia",
+      "companyIndustryId": 0,
+      "companyIndustry": "Food & Beverage",
+      "employmentTitle": "Mobile Product Manager",
+      "employmentType": "Full-time",
+      "employmentDescription": "Best Accomplishment :\n1. Successfully developed and distributed Golden Lamian consumer App within 6 months alongside with 2 more apps which is Golden Lamian Store and Golden Lamian CS.\n2. Successfully reduce development time up to 15% of the time line.\n3. Successfully integrated 3rd party online payment to the app which is Gopay, Ovo, and Dana.\n4. Successfully manage secure app and data distribution.\n5. Successfully improve Golden Lamian App to be Seven Food in 4 months, which increase app capability to be able to host multiple brands.\n6. Successfully developed Seven Food Merchant with RBAC system.\n7. Successfully developed 5 apps within 1 year.",
+      "profileHeadline": "Project Manager",
+      "startMonth": 7,
+      "startYear": 2019,
+      "endMonth": 8,
+      "endYear": 2020,
+      "currentlyWorking": false,
+      "skills": [
+        {
+          "skillTitle": "Team Leadership",
+          "skillId": 0,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/1256/1256632.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Flutter",
+          "skillId": 1,
+          "skillImage": "https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Mobile Development",
+          "skillId": 2,
+          "skillImage": "https://www.seekpng.com/png/full/278-2783353_mobile-mobile-phone-icon-red-png.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Android Development",
+          "skillId": 3,
+          "skillImage": "https://www.freepnglogos.com/uploads/android-logo-png/android-logo-powerful-mobile-apps-for-those-with-disabilities-3.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "iOS Development",
+          "skillId": 4,
+          "skillImage": "https://pic.onlinewebfonts.com/svg/img_204828.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Web Development",
+          "skillId": 5,
+          "skillImage": "http://cdn.onlinewebfonts.com/svg/img_527746.png",
+          "skillExpertise": 9
+        },
+        {
+          "skillTitle": "Dart",
+          "skillId": 9,
+          "skillImage": "https://iconape.com/wp-content/files/pa/370777/png/370777.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Kanban",
+          "skillId": 23,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/5360/5360804.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Continuous Integration",
+          "skillId": 18,
+          "skillImage": "https://cdn0.iconfinder.com/data/icons/agile-coral-vol-1/256/Continuous_Integration-1024.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Continuous Delivery",
+          "skillId": 19,
+          "skillImage": "https://www.datocms-assets.com/15783/1598878243-cd.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Git",
+          "skillId": 25,
+          "skillImage": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Firebase",
+          "skillId": 14,
+          "skillImage": "https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Geo-Location",
+          "skillId": 15,
+          "skillImage": "https://www.seekpng.com/png/full/204-2048201_vector-location-icon-png.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Software Development",
+          "skillId": 16,
+          "skillImage": "https://www.freeiconspng.com/uploads/software-icon-30.png",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "Json",
+          "skillId": 26,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/136/136525.png",
+          "skillExpertise": 9
+        },
+        {
+          "skillTitle": "REST APIs",
+          "skillId": 27,
+          "skillImage": "https://apps.odoocdn.com/web/image/loempia.module/37657/icon_image",
+          "skillExpertise": 9
+        },
+        {
+          "skillTitle": "Javascript",
+          "skillId": 28,
+          "skillImage": "https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg",
+          "skillExpertise": 8
+        },
+        {
+          "skillTitle": "NoSQL",
+          "skillId": 29,
+          "skillImage": "https://icon-library.com/images/no-sql-icon/no-sql-icon-7.jpg",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Cloud Storage",
+          "skillId": 31,
+          "skillImage": "https://assets.dryicons.com/uploads/icon/svg/9786/ed03e991-bb05-4b08-ab2e-2aa5d148da68.svg",
+          "skillExpertise": 7
+        }
+      ],
+      "media": [
+        {
+          "contentType": "",
+          "contentUrl": "",
+          "contentTitle": "",
+          "contentDescription": ""
+        }
+      ],
+      "projects": [
+        {
+          "projectName": "Golden Lamian",
+          "projectImageUrl": "https://play-lh.googleusercontent.com/sDwdKFbfkaNctGzDcsBEATnUhXqRgMbYNjC3kPl0sa0jfFlGQXYIguyB8kT-Qjr72Lk=w600-h300-pc0xffffff-pd",
+          "projectDescription": "Golden Lamian Apps for Android and iOS built with flutter",
+          "currentlyWorking": false,
+          "startMonth": 7,
+          "startYear": 2019,
+          "endMonth": 12,
+          "endYear": 2019,
+          "teamSize": 7,
+          "role": "Project Manager",
+          "projectUrl": [
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://logos-world.net/wp-content/uploads/2021/02/App-Store-Logo.png",
+              "contentTitle": "Golden Lamian iOS",
+              "contentDescription": "https://appstorespy.com/apps/play/GoldenLamian/com.goldenlamian",
+              "contentAction": "https://appstorespy.com/apps/play/GoldenLamian/com.goldenlamian"
+            },
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Prism.max-500x500.png",
+              "contentTitle": "Golden Lamian Android",
+              "contentDescription": "https://play.google.com/store/apps/details?id=com.goldenlamian",
+              "contentAction": "https://play.google.com/store/apps/details?id=com.goldenlamian"
+            }
+          ],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Golden Lamian Store",
+          "projectUrl": [],
+          "projectImageUrl": "https://play-lh.googleusercontent.com/sDwdKFbfkaNctGzDcsBEATnUhXqRgMbYNjC3kPl0sa0jfFlGQXYIguyB8kT-Qjr72Lk=w600-h300-pc0xffffff-pd",
+          "projectDescription": "Golden Lamian Store for Android built with native kotlin, an app that accept the order from Golden Lamian Apps. This app is used in the store for the employee.",
+          "currentlyWorking": false,
+          "startMonth": 12,
+          "startYear": 2020,
+          "endMonth": 2,
+          "endYear": 2021,
+          "teamSize": 5,
+          "role": "Project Manager",
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Golden Lamian Customer Service",
+          "projectUrl": [],
+          "projectImageUrl": "https://play-lh.googleusercontent.com/sDwdKFbfkaNctGzDcsBEATnUhXqRgMbYNjC3kPl0sa0jfFlGQXYIguyB8kT-Qjr72Lk=w600-h300-pc0xffffff-pd",
+          "projectDescription": "Golden Lamian Customer Service for Android built with native kotlin, an app that used by customer service to check order and observe the order traffic.",
+          "currentlyWorking": false,
+          "startMonth": 2,
+          "startYear": 2021,
+          "endMonth": 3,
+          "endYear": 2022,
+          "teamSize": 3,
+          "role": "Project Manager",
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Seven Food App",
+          "projectUrl": [],
+          "projectImageUrl": "https://cakapinterview.com/wp-content/uploads/2021/03/CK-Seven-Retail-Group.jpg",
+          "projectDescription": "Seven Food App is an upgrade from Golden Lamian App to support more brand inside Seven Food retail group.",
+          "currentlyWorking": false,
+          "startMonth": 3,
+          "startYear": 2021,
+          "endMonth": 8,
+          "endYear": 2021,
+          "teamSize": 7,
+          "role": "Project Manager",
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Seven Food Merchant App",
+          "projectUrl": [],
+          "projectImageUrl": "https://cakapinterview.com/wp-content/uploads/2021/03/CK-Seven-Retail-Group.jpg",
+          "projectDescription": "Seven Food Merchant App is an upgrade from Golden Lamian Store App to support more brand inside Seven Food retail group.",
+          "currentlyWorking": false,
+          "startMonth": 3,
+          "startYear": 2021,
+          "endMonth": 8,
+          "endYear": 2021,
+          "teamSize": 7,
+          "role": "Project Manager",
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "PT Infotech Solutions",
+      "companyImage": "https://cdn.techinasia.com/data/images/TA5VcliiCzxBfnvnRGRMPek8tn7eFOFvBJWeDHdL.jpeg",
+      "companyLocationId": 0,
+      "companyLocation": "Greater Jakarta Area, Indonesia",
+      "companyIndustryId": 0,
+      "companyIndustry": "IT Consultant",
+      "employmentTitle": "Mobile Product Engineer",
+      "employmentType": "Full-time",
+      "employmentDescription": "Best Accomplishments :\n1. Successfully rework and redesign 90% of all the old sytem of Starbucks (ID) Android app.\n2. Full develop Starbucks (ID) android app and manage to help 45% of Starbucks (ID) iOS development.\n3. Successfully design security for both of the apps and manage to pass penetration test for both Starbucks (ID) Android and iOS.\n4. Successfully developed Domino's Pizza (ID) and connected it to Magento Rest - API.\n5. Full develop Domino's Pizza (ID) android app and manage to help 25% of Domino's Pizza (ID) iOS development.\n6. Maintain standard development with Google Standard and Base Practice.\n7. Works closely with clients directly.",
+      "profileHeadline": "Mobile Product Engineer",
+      "startMonth": 11,
+      "startYear": 2017,
+      "endMonth": 6,
+      "endYear": 2019,
+      "currentlyWorking": false,
+      "skills": [
+        {
+          "skillTitle": "Team Leadership",
+          "skillId": 0,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/1256/1256632.png",
+          "skillExpertise": 6
+        },
+        {
+          "skillTitle": "Flutter",
+          "skillId": 1,
+          "skillImage": "https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Mobile Development",
+          "skillId": 2,
+          "skillImage": "https://www.seekpng.com/png/full/278-2783353_mobile-mobile-phone-icon-red-png.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Android Development",
+          "skillId": 3,
+          "skillImage": "https://www.freepnglogos.com/uploads/android-logo-png/android-logo-powerful-mobile-apps-for-those-with-disabilities-3.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "iOS Development",
+          "skillId": 4,
+          "skillImage": "https://pic.onlinewebfonts.com/svg/img_204828.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Dart",
+          "skillId": 9,
+          "skillImage": "https://iconape.com/wp-content/files/pa/370777/png/370777.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Git",
+          "skillId": 25,
+          "skillImage": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Firebase",
+          "skillId": 14,
+          "skillImage": "https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Geo-Location",
+          "skillId": 15,
+          "skillImage": "https://www.seekpng.com/png/full/204-2048201_vector-location-icon-png.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Software Development",
+          "skillId": 16,
+          "skillImage": "https://www.freeiconspng.com/uploads/software-icon-30.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Json",
+          "skillId": 26,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/136/136525.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "REST APIs",
+          "skillId": 27,
+          "skillImage": "https://apps.odoocdn.com/web/image/loempia.module/37657/icon_image",
+          "skillExpertise": 7
+        }
+      ],
+      "media": [
+        {
+          "contentType": "",
+          "contentUrl": "",
+          "contentTitle": "",
+          "contentDescription": ""
+        }
+      ],
+      "projects": [
+        {
+          "projectName": "Domino's Pizza Indonesia",
+          "projectImageUrl": "https://play-lh.googleusercontent.com/V6_SKZgSfPLGGlZNu48tVe92yCjAe7x9IOANPqrntvJWmwhvS2mHNVrsnXWOOYdPyjhY",
+          "projectDescription": "Domino's Pizza Indonesia for Android and iOS. Android apps built with native java while iOS apps built with Obj-C.",
+          "currentlyWorking": false,
+          "startMonth": 11,
+          "startYear": 2017,
+          "endMonth": 3,
+          "endYear": 2018,
+          "teamSize": 6,
+          "role": "Android Developer",
+          "projectUrl": [
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://logos-world.net/wp-content/uploads/2021/02/App-Store-Logo.png",
+              "contentTitle": "Domino's Pizza Indonesia iOS",
+              "contentDescription": "https://apps.apple.com/id/app/dominos-pizza-indonesia/id894487160",
+              "contentAction": "https://apps.apple.com/id/app/dominos-pizza-indonesia/id894487160"
+            },
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Prism.max-500x500.png",
+              "contentTitle": "Domino's Pizza Indonesia Android",
+              "contentDescription": "https://play.google.com/store/apps/details?id=com.phonegap.dominos",
+              "contentAction": "https://play.google.com/store/apps/details?id=com.phonegap.dominos"
+            }
+          ],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Starbucks Indonesia",
+          "projectImageUrl": "https://play-lh.googleusercontent.com/BzmOV8DWrE4PFrtiteQGokZNEuXqkzdBRyHue9gaotR9m4C_b529Ngvw5NGDSLwu3g=w480-h960-rw",
+          "projectDescription": "Starbucks Indonesia for Android and iOS. Android apps built with native java while iOS apps built with Swift.",
+          "currentlyWorking": false,
+          "startMonth": 4,
+          "startYear": 2018,
+          "endMonth": 12,
+          "endYear": 2018,
+          "teamSize": 6,
+          "role": "Android Developer",
+          "projectUrl": [
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://logos-world.net/wp-content/uploads/2021/02/App-Store-Logo.png",
+              "contentTitle": "Starbucks Indonesia iOS",
+              "contentDescription": "https://apps.apple.com/id/app/starbucks-indonesia/id1126488844",
+              "contentAction": "https://apps.apple.com/id/app/starbucks-indonesia/id1126488844"
+            },
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Prism.max-500x500.png",
+              "contentTitle": "Starbucks Indonesia Android",
+              "contentDescription": "https://play.google.com/store/apps/details?id=com.starbucks.id",
+              "contentAction": "https://play.google.com/store/apps/details?id=com.starbucks.id"
+            }
+          ],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Komura",
+          "projectImageUrl": "https://pbs.twimg.com/profile_images/991223656964440064/ePRnRlpl_400x400.jpg",
+          "projectDescription": "Komura app for Android built with native kotlin.",
+          "currentlyWorking": false,
+          "startMonth": 2,
+          "startYear": 2019,
+          "endMonth": 6,
+          "endYear": 2019,
+          "teamSize": 4,
+          "role": "Mobile Product Engineer",
+          "projectUrl": [],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "CV Kompak Tour",
+      "companyImage": "https://yt3.ggpht.com/ytc/AKedOLRad5FGUUeyosIbuAaF9UQCqE6HZ0MuSG2Hmz12M64=s900-c-k-c0x00ffffff-no-rj",
+      "companyLocationId": 0,
+      "companyLocation": "Jepara, Central Java",
+      "companyIndustryId": 0,
+      "companyIndustry": "Tour & Travel Agency",
+      "employmentTitle": "Full Stack Mobile Developer",
+      "employmentType": "Full-time",
+      "employmentDescription": "Best Accomplishments :\n1. Successfully describe company problem to increase sales and provide the\nsolution.\n2. Successfully develop android app for information, order, and services for\ncompany.\n3. Successfully designed Great UI for both Android app and Website.\n4. Successfully integrated Android App to Wordpress CMS via REST API.\n5. Successfully increase website security and Android App.\n6. Successfully customizing Wordpress API to match system requirement.\n7. Successfully reorder and clean Database.\n8. Successfully designed and implemented new system in both Android App and Website.\n9. Successfully maintained and updated Website and Android App.",
+      "profileHeadline": "Full Stack Mobile Developer",
+      "startMonth": 6,
+      "startYear": 2015,
+      "endMonth": 10,
+      "endYear": 2017,
+      "currentlyWorking": false,
+      "skills": [
+        {
+          "skillTitle": "Mobile Development",
+          "skillId": 2,
+          "skillImage": "https://www.seekpng.com/png/full/278-2783353_mobile-mobile-phone-icon-red-png.png",
+          "skillExpertise": 6
+        },
+        {
+          "skillTitle": "Android Development",
+          "skillId": 3,
+          "skillImage": "https://www.freepnglogos.com/uploads/android-logo-png/android-logo-powerful-mobile-apps-for-those-with-disabilities-3.png",
+          "skillExpertise": 6
+        },
+        {
+          "skillTitle": "Web Development",
+          "skillId": 5,
+          "skillImage": "http://cdn.onlinewebfonts.com/svg/img_527746.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Html",
+          "skillId": 10,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/732/732212.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "CSS",
+          "skillId": 11,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "PHP",
+          "skillId": 12,
+          "skillImage": "https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Software Development",
+          "skillId": 16,
+          "skillImage": "https://www.freeiconspng.com/uploads/software-icon-30.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Json",
+          "skillId": 26,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/136/136525.png",
+          "skillExpertise": 6
+        },
+        {
+          "skillTitle": "REST APIs",
+          "skillId": 27,
+          "skillImage": "https://apps.odoocdn.com/web/image/loempia.module/37657/icon_image",
+          "skillExpertise": 6
+        },
+        {
+          "skillTitle": "CMS",
+          "skillId": 30,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/1787/1787257.png",
+          "skillExpertise": 8
+        }
+      ],
+      "media": [
+        {
+          "contentType": "",
+          "contentUrl": "",
+          "contentTitle": "",
+          "contentDescription": ""
+        }
+      ],
+      "projects": [
+        {
+          "projectName": "Kompak Tour",
+          "projectUrl": [],
+          "projectImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRad5FGUUeyosIbuAaF9UQCqE6HZ0MuSG2Hmz12M64=s900-c-k-c0x00ffffff-no-rj",
+          "projectDescription": "Kompak Tour app for Android built with native java.",
+          "currentlyWorking": false,
+          "startMonth": 4,
+          "startYear": 2017,
+          "endMonth": 10,
+          "endYear": 2017,
+          "teamSize": 3,
+          "role": "Full Stack Mobile Developer",
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Kompak Travel",
+          "projectUrl": [],
+          "projectImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRad5FGUUeyosIbuAaF9UQCqE6HZ0MuSG2Hmz12M64=s900-c-k-c0x00ffffff-no-rj",
+          "projectDescription": "Kompak Travel app for Android built with native java.",
+          "currentlyWorking": false,
+          "startMonth": 10,
+          "startYear": 2016,
+          "endMonth": 4,
+          "endYear": 2017,
+          "teamSize": 3,
+          "role": "Full Stack Mobile Developer",
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Homestay Karimunjawa",
+          "projectUrl": [],
+          "projectImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRad5FGUUeyosIbuAaF9UQCqE6HZ0MuSG2Hmz12M64=s900-c-k-c0x00ffffff-no-rj",
+          "projectDescription": "Homestay Karimunjawa app for Android built with native java.",
+          "currentlyWorking": false,
+          "startMonth": 2,
+          "startYear": 2016,
+          "endMonth": 9,
+          "endYear": 2016,
+          "teamSize": 3,
+          "role": "Full Stack Mobile Developer",
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Keramik45 Website",
+
+          "projectImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRad5FGUUeyosIbuAaF9UQCqE6HZ0MuSG2Hmz12M64=s900-c-k-c0x00ffffff-no-rj",
+          "projectDescription": "Keramik45 website is a website mainly selling tour and travel for Karimunjawq Destination.",
+          "currentlyWorking": false,
+          "startMonth": 10,
+          "startYear": 2015,
+          "endMonth": 1,
+          "endYear": 2016,
+          "teamSize": 3,
+          "role": "Full Stack Mobile Developer",
+          "projectUrl": [],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Empatenam Website",
+          "projectImageUrl": "https://scontent-sin6-3.xx.fbcdn.net/v/t1.18169-9/11223481_521076918072131_8203051188012083254_n.png?stp=dst-png_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=dd9801&_nc_ohc=EDqLgyCSAHYAX9PC56m&_nc_ht=scontent-sin6-3.xx&oh=00_AT8QfQPiRsPmg988w2zsDfaQT5F_B91ZhQAtsdmSQSl_Pg&oe=62EA7068",
+          "projectDescription": "Empatenam website is a website mainly selling tour and travel for Karimunjawq Destination.",
+          "currentlyWorking": false,
+          "startMonth": 8,
+          "startYear": 2015,
+          "endMonth": 10,
+          "endYear": 2015,
+          "teamSize": 3,
+          "role": "Full Stack Mobile Developer",
+          "projectUrl": [
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://pic.onlinewebfonts.com/svg/img_527746.png",
+              "contentTitle": "Empatenam Website",
+              "contentDescription": "https://empatenam.com/",
+              "contentAction": "https://empatenam.com/"
+            }
+          ],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Kompaktour Website",
+          "projectImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRad5FGUUeyosIbuAaF9UQCqE6HZ0MuSG2Hmz12M64=s900-c-k-c0x00ffffff-no-rj",
+          "projectDescription": "Kompaktour website is a website mainly selling tour and travel for Karimunjawq Destination.",
+          "currentlyWorking": false,
+          "startMonth": 6,
+          "startYear": 2015,
+          "endMonth": 8,
+          "endYear": 2015,
+          "teamSize": 3,
+          "role": "Full Stack Mobile Developer",
+          "projectUrl": [
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://pic.onlinewebfonts.com/svg/img_527746.png",
+              "contentTitle": "Kompaktour Website",
+              "contentDescription": "https://www.kompaktour.com/",
+              "contentAction": "https://www.kompaktour.com/"
+            }
+          ],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "CV Kosti Solo",
+      "companyImage": "https://pbs.twimg.com/profile_images/494461166031106048/F995CFSM_400x400.jpeg",
+      "companyLocationId": 0,
+      "companyLocation": "Surakarta, Central Java",
+      "companyIndustryId": 0,
+      "companyIndustry": "Transportation Agency",
+      "employmentTitle": "Full Stack Developer",
+      "employmentType": "Full-time",
+      "employmentDescription": "Best Accomplishments :\n1. Successfully designed UI for website and android app.\n2. Successfully help developed android app for taxi order and\ncalculate the total cost of the order.\n3. Successfully developed Android app for company to display company\nworkers and taxi.\n4. Successfully maintained the stability of website and data flow from website\nand Android app to server.\n5. Successfully integrated website and android app to REST - API.\n6. Successfully designed and developed API for Android app and Website.\n7. Successfully designed security for both Android App and Website.",
+      "profileHeadline": "Full Stack Developer",
+      "startMonth": 4,
+      "startYear": 2014,
+      "endMonth": 5,
+      "endYear": 2015,
+      "currentlyWorking": false,
+      "skills": [
+        {
+          "skillTitle": "Mobile Development",
+          "skillId": 2,
+          "skillImage": "https://www.seekpng.com/png/full/278-2783353_mobile-mobile-phone-icon-red-png.png",
+          "skillExpertise": 5
+        },
+        {
+          "skillTitle": "Android Development",
+          "skillId": 3,
+          "skillImage": "https://www.freepnglogos.com/uploads/android-logo-png/android-logo-powerful-mobile-apps-for-those-with-disabilities-3.png",
+          "skillExpertise": 5
+        },
+        {
+          "skillTitle": "Web Development",
+          "skillId": 5,
+          "skillImage": "http://cdn.onlinewebfonts.com/svg/img_527746.png",
+          "skillExpertise": 6
+        },
+        {
+          "skillTitle": "Html",
+          "skillId": 10,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/732/732212.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "CSS",
+          "skillId": 11,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "PHP",
+          "skillId": 12,
+          "skillImage": "https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png",
+          "skillExpertise": 7
+        },
+        {
+          "skillTitle": "Software Development",
+          "skillId": 16,
+          "skillImage": "https://www.freeiconspng.com/uploads/software-icon-30.png",
+          "skillExpertise": 6
+        },
+        {
+          "skillTitle": "Json",
+          "skillId": 26,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/136/136525.png",
+          "skillExpertise": 6
+        },
+        {
+          "skillTitle": "REST APIs",
+          "skillId": 27,
+          "skillImage": "https://apps.odoocdn.com/web/image/loempia.module/37657/icon_image",
+          "skillExpertise": 6
+        },
+        {
+          "skillTitle": "CMS",
+          "skillId": 30,
+          "skillImage": "https://cdn-icons-png.flaticon.com/512/1787/1787257.png",
+          "skillExpertise": 7
+        }
+      ],
+      "media": [
+        {
+          "contentType": "",
+          "contentUrl": "",
+          "contentTitle": "",
+          "contentDescription": ""
+        }
+      ],
+      "projects": [
+        {
+          "projectName": "Kosti Solo Order",
+          "projectImageUrl": "https://pbs.twimg.com/profile_images/494461166031106048/F995CFSM_400x400.jpeg",
+          "projectDescription": "Kosti Solo Order app for Android built with native java.",
+          "currentlyWorking": false,
+          "startMonth": 4,
+          "startYear": 2014,
+          "endMonth": 10,
+          "endYear": 2014,
+          "teamSize": 4,
+          "role": "Full Stack Developer",
+          "projectUrl": [],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Kosti Solo Company",
+          "projectImageUrl": "https://pbs.twimg.com/profile_images/494461166031106048/F995CFSM_400x400.jpeg",
+          "projectDescription": "Kosti Solo Company app for Android built with native java.",
+          "currentlyWorking": false,
+          "startMonth": 11,
+          "startYear": 2014,
+          "endMonth": 2,
+          "endYear": 2015,
+          "teamSize": 3,
+          "role": "Full Stack Developer",
+          "projectUrl": [],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        },
+        {
+          "projectName": "Website Kosti Solo",
+          "projectImageUrl": "https://pbs.twimg.com/profile_images/494461166031106048/F995CFSM_400x400.jpeg",
+          "projectDescription": "Website Kosti Solo",
+          "currentlyWorking": false,
+          "startMonth": 2,
+          "startYear": 2015,
+          "endMonth": 5,
+          "endYear": 2015,
+          "teamSize": 3,
+          "role": "Full Stack Developer",
+          "projectUrl": [
+            {
+              "contentType": "launchUrl",
+              "contentUrl": "https://pic.onlinewebfonts.com/svg/img_527746.png",
+              "contentTitle": "Kosti Solo Website",
+              "contentDescription": "http://kostisolo.co.id/",
+              "contentAction": "http://kostisolo.co.id/"
+            }
+          ],
+          "creator": [
+            {
+              "creatorName": "Angga Nova Perkasa",
+              "creatorImage": "https://media-exp2.licdn.com/dms/image/C5603AQG8BhRqw4OeoQ/profile-displayphoto-shrink_400_400/0/1598326215599?e=1662595200&v=beta&t=0r5mecXZeu36d1vJ9xw-xSljj9RB1ksQDFZnVvunJPA"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "Universitas Muhammadiyah Surakarta",
+      "degree": "Bachelor's degree",
+      "fieldOfStudy": "Information Technology",
+      "startMonth": 7,
+      "startYear": 2010,
+      "endMonth": 3,
+      "endYear": 2015,
+      "grade": "A",
+      "description": "",
+      "media": [
+        {
+          "contentType": "",
+          "contentUrl": "",
+          "contentTitle": "",
+          "contentDescription": ""
+        }
+      ]
+    }
+  ],
+  "contactInfo": [
+    {
+      "contentType": "launchUrl",
+      "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png",
+      "contentTitle": "LinkedIn",
+      "contentDescription": "linkedin.com/in/angga-nova-perkasa-580793187",
+      "contentAction": "https://www.linkedin.com/in/angga-nova-perkasa-580793187/"
+    },
+    {
+      "contentType": "launchUrl",
+      "contentUrl": "https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png",
+      "contentTitle": "Email",
+      "contentDescription": "angganova.recruitment@gmail.com",
+      "contentAction": "mailto:angganova.recruitment@gmail.com"
+    },
+    {
+      "contentType": "launchUrl",
+      "contentUrl": "https://cdn.icon-icons.com/icons2/2248/PNG/512/phone_icon_136322.png",
+      "contentTitle": "Phone",
+      "contentDescription": "6287836566310",
+      "contentAction": "tel:6287836566310"
+    },
+    {
+      "contentType": "launchUrl",
+      "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+      "contentTitle": "Whatsapp",
+      "contentDescription": "6287836566310",
+      "contentAction": "https://wa.me/6287836566310"
+    }
+  ],
+  "languages": [
+    {
+      "languageId": "English",
+      "languageTitle": "English",
+      "languageProficiency": "Full professional proficiency"
+    },
+    {
+      "languageId": "Indonesian",
+      "languageTitle": "Indonesian",
+      "languageProficiency": "Full professional proficiency"
+    }
+  ]
+}
